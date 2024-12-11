@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Dec 2024 14:51:38 at https://www.cbcareagencyltd.co.uk/ https://www.cbcareagencyltd.co.uk/members-area +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cbcareagencyltd.co.uk/ https://www.cbcareagencyltd.co.uk/members-area -O1 "C:\My Web Sites\CB Care Agency Ltd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:52:32	Error: 	"Not Found" (404) at link https://www.cbcareagencyltd.co.uk/feed.xml (from https://www.cbcareagencyltd.co.uk/)
+14:52:32	Error: 	"Not Found" (404) at link https://www.cbcareagencyltd.co.uk/decodeURIComponent(e (from https://www.cbcareagencyltd.co.uk/)
+14:52:32	Error: 	"Not Found" (404) at link https://www.cbcareagencyltd.co.uk/media/emptystate.85a4add5.svg (from https://www.cbcareagencyltd.co.uk/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 38 links scanned, 34 files written (7097964 bytes overall) [2034507 bytes received at 37676 bytes/sec], 6730826 bytes transferred using HTTP compression in 25 files, ratio 23%, 1.1 requests per connection
+(3 errors, 0 warnings, 0 messages)

@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cbcareagencyltd.co.uk	TRUE	/	FALSE	1999999999	hs	106774231
+www.cbcareagencyltd.co.uk	TRUE	/	FALSE	1999999999	svSession	984257fd9f2fbd39de9c3cc2fa3f2066a49bc5ddc2c8ca6f31eee20bb52d84a9c52f45ae17246a4151d28a32d34f5e001e60994d53964e647acf431e4f798bcd9245201e7c6a837782de7cd70ff6a72872c184b5ab010b856fc3c69f42b9a9df19dcbdf52237a749beda5a144104e7686b94d79a778bb965cd096d16be6027edc4849cba8f548e9cec6822e5e53cd272
+www.cbcareagencyltd.co.uk	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1733928714|ELf1uQxuK1UB
+www.cbcareagencyltd.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.cbcareagencyltd.co.uk	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_84_g
+
